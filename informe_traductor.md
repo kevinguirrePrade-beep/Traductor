@@ -1,6 +1,8 @@
 
 # Informe de Proyecto: Desarrollo de un Traductor con Aprendizaje Incremental
 
+Autor: Kevin Jose Izaguirre Pradera
+
 ---
 
 ## Índice
