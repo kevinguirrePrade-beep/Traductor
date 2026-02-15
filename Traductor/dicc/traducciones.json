@@ -1,0 +1,713 @@
+{
+  "diccionario": {
+    "inglés": {
+      "español": {
+        "hello": {
+          "texto": "hola",
+          "puntuacion_promedio": 9.2,
+          "total_evaluaciones": 15,
+          "historial_puntuaciones": [10, 9, 8, 10, 9, 9, 10, 9, 8, 10, 9, 9, 10, 9, 9],
+          "fecha_creacion": "2024-01-15T10:00:00",
+          "fecha_ultima_modificacion": "2024-03-20T14:30:00"
+        },
+        "goodbye": {
+          "texto": "adiós",
+          "puntuacion_promedio": 8.7,
+          "total_evaluaciones": 12,
+          "historial_puntuaciones": [9, 8, 9, 9, 8, 9, 8, 9, 9, 8, 9, 8],
+          "fecha_creacion": "2024-01-15T10:05:00",
+          "fecha_ultima_modificacion": "2024-03-18T11:20:00"
+        },
+        "thank you": {
+          "texto": "gracias",
+          "puntuacion_promedio": 9.8,
+          "total_evaluaciones": 20,
+          "historial_puntuaciones": [10, 10, 9, 10, 10, 10, 10, 9, 10, 10, 9, 10, 10, 10, 10, 10, 9, 10, 10, 10],
+          "fecha_creacion": "2024-01-15T10:10:00",
+          "fecha_ultima_modificacion": "2024-03-22T16:15:00"
+        },
+        "water": {
+          "texto": "agua",
+          "puntuacion_promedio": 9.5,
+          "total_evaluaciones": 8,
+          "historial_puntuaciones": [9, 10, 10, 9, 10, 9, 10, 9],
+          "fecha_creacion": "2024-01-16T09:00:00",
+          "fecha_ultima_modificacion": "2024-03-15T10:30:00"
+        },
+        "house": {
+          "texto": "casa",
+          "puntuacion_promedio": 9.3,
+          "total_evaluaciones": 10,
+          "historial_puntuaciones": [9, 10, 9, 9, 10, 9, 9, 10, 9, 9],
+          "fecha_creacion": "2024-01-16T09:05:00",
+          "fecha_ultima_modificacion": "2024-03-17T14:20:00"
+        },
+        "food": {
+          "texto": "comida",
+          "puntuacion_promedio": 9.1,
+          "total_evaluaciones": 7,
+          "historial_puntuaciones": [9, 9, 10, 9, 9, 9, 9],
+          "fecha_creacion": "2024-01-17T11:00:00",
+          "fecha_ultima_modificacion": "2024-03-19T12:45:00"
+        },
+        "book": {
+          "texto": "libro",
+          "puntuacion_promedio": 8.9,
+          "total_evaluaciones": 6,
+          "historial_puntuaciones": [9, 9, 8, 9, 9, 9],
+          "fecha_creacion": "2024-01-18T14:00:00",
+          "fecha_ultima_modificacion": "2024-03-16T15:30:00"
+        },
+        "computer": {
+          "texto": "computadora",
+          "puntuacion_promedio": 8.6,
+          "total_evaluaciones": 9,
+          "historial_puntuaciones": [8, 9, 8, 9, 8, 9, 8, 9, 8],
+          "fecha_creacion": "2024-01-19T16:00:00",
+          "fecha_ultima_modificacion": "2024-03-21T13:15:00"
+        },
+        "love": {
+          "texto": "amor",
+          "puntuacion_promedio": 9.9,
+          "total_evaluaciones": 25,
+          "historial_puntuaciones": [10, 10, 10, 10, 10, 10, 10, 10, 9, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10],
+          "fecha_creacion": "2024-01-20T10:00:00",
+          "fecha_ultima_modificacion": "2024-03-23T17:45:00"
+        },
+        "friend": {
+          "texto": "amigo",
+          "puntuacion_promedio": 9.4,
+          "total_evaluaciones": 11,
+          "historial_puntuaciones": [9, 10, 9, 10, 9, 10, 9, 9, 10, 9, 10],
+          "fecha_creacion": "2024-01-21T11:30:00",
+          "fecha_ultima_modificacion": "2024-03-22T10:20:00"
+        }
+      },
+      "francés": {
+        "hello": {
+          "texto": "bonjour",
+          "puntuacion_promedio": 9.0,
+          "total_evaluaciones": 12,
+          "historial_puntuaciones": [9, 9, 8, 9, 10, 9, 9, 8, 9, 9, 9, 9],
+          "fecha_creacion": "2024-01-15T11:00:00",
+          "fecha_ultima_modificacion": "2024-03-20T15:45:00"
+        },
+        "goodbye": {
+          "texto": "au revoir",
+          "puntuacion_promedio": 8.8,
+          "total_evaluaciones": 10,
+          "historial_puntuaciones": [9, 8, 9, 8, 9, 9, 8, 9, 9, 8],
+          "fecha_creacion": "2024-01-15T11:05:00",
+          "fecha_ultima_modificacion": "2024-03-18T12:30:00"
+        },
+        "thank you": {
+          "texto": "merci",
+          "puntuacion_promedio": 9.7,
+          "total_evaluaciones": 18,
+          "historial_puntuaciones": [10, 9, 10, 10, 10, 9, 10, 10, 9, 10, 10, 10, 10, 9, 10, 10, 10, 9],
+          "fecha_creacion": "2024-01-15T11:10:00",
+          "fecha_ultima_modificacion": "2024-03-22T17:30:00"
+        },
+        "water": {
+          "texto": "eau",
+          "puntuacion_promedio": 9.2,
+          "total_evaluaciones": 7,
+          "historial_puntuaciones": [9, 10, 9, 9, 10, 9, 9],
+          "fecha_creacion": "2024-01-16T10:00:00",
+          "fecha_ultima_modificacion": "2024-03-17T11:45:00"
+        }
+      },
+      "portugués": {
+        "hello": {
+          "texto": "olá",
+          "puntuacion_promedio": 9.1,
+          "total_evaluaciones": 11,
+          "historial_puntuaciones": [9, 9, 10, 9, 9, 9, 10, 9, 9, 9, 9],
+          "fecha_creacion": "2024-01-15T12:00:00",
+          "fecha_ultima_modificacion": "2024-03-19T16:30:00"
+        },
+        "goodbye": {
+          "texto": "adeus",
+          "puntuacion_promedio": 8.9,
+          "total_evaluaciones": 9,
+          "historial_puntuaciones": [9, 8, 9, 9, 9, 8, 9, 9, 9],
+          "fecha_creacion": "2024-01-15T12:05:00",
+          "fecha_ultima_modificacion": "2024-03-21T14:20:00"
+        },
+        "thank you": {
+          "texto": "obrigado",
+          "puntuacion_promedio": 9.5,
+          "total_evaluaciones": 15,
+          "historial_puntuaciones": [10, 9, 10, 9, 10, 10, 9, 10, 9, 10, 9, 10, 10, 9, 10],
+          "fecha_creacion": "2024-01-15T12:10:00",
+          "fecha_ultima_modificacion": "2024-03-23T15:15:00"
+        },
+        "water": {
+          "texto": "água",
+          "puntuacion_promedio": 9.3,
+          "total_evaluaciones": 8,
+          "historial_puntuaciones": [9, 10, 9, 10, 9, 9, 10, 9],
+          "fecha_creacion": "2024-01-16T11:00:00",
+          "fecha_ultima_modificacion": "2024-03-18T13:30:00"
+        }
+      }
+    },
+    "español": {
+      "inglés": {
+        "hola": {
+          "texto": "hello",
+          "puntuacion_promedio": 9.2,
+          "total_evaluaciones": 15,
+          "historial_puntuaciones": [10, 9, 8, 10, 9, 9, 10, 9, 8, 10, 9, 9, 10, 9, 9],
+          "fecha_creacion": "2024-01-15T10:00:00",
+          "fecha_ultima_modificacion": "2024-03-20T14:30:00"
+        },
+        "adiós": {
+          "texto": "goodbye",
+          "puntuacion_promedio": 8.7,
+          "total_evaluaciones": 12,
+          "historial_puntuaciones": [9, 8, 9, 9, 8, 9, 8, 9, 9, 8, 9, 8],
+          "fecha_creacion": "2024-01-15T10:05:00",
+          "fecha_ultima_modificacion": "2024-03-18T11:20:00"
+        },
+        "gracias": {
+          "texto": "thank you",
+          "puntuacion_promedio": 9.8,
+          "total_evaluaciones": 20,
+          "historial_puntuaciones": [10, 10, 9, 10, 10, 10, 10, 9, 10, 10, 9, 10, 10, 10, 10, 10, 9, 10, 10, 10],
+          "fecha_creacion": "2024-01-15T10:10:00",
+          "fecha_ultima_modificacion": "2024-03-22T16:15:00"
+        },
+        "agua": {
+          "texto": "water",
+          "puntuacion_promedio": 9.5,
+          "total_evaluaciones": 8,
+          "historial_puntuaciones": [9, 10, 10, 9, 10, 9, 10, 9],
+          "fecha_creacion": "2024-01-16T09:00:00",
+          "fecha_ultima_modificacion": "2024-03-15T10:30:00"
+        },
+        "casa": {
+          "texto": "house",
+          "puntuacion_promedio": 9.3,
+          "total_evaluaciones": 10,
+          "historial_puntuaciones": [9, 10, 9, 9, 10, 9, 9, 10, 9, 9],
+          "fecha_creacion": "2024-01-16T09:05:00",
+          "fecha_ultima_modificacion": "2024-03-17T14:20:00"
+        },
+        "comida": {
+          "texto": "food",
+          "puntuacion_promedio": 9.1,
+          "total_evaluaciones": 7,
+          "historial_puntuaciones": [9, 9, 10, 9, 9, 9, 9],
+          "fecha_creacion": "2024-01-17T11:00:00",
+          "fecha_ultima_modificacion": "2024-03-19T12:45:00"
+        },
+        "libro": {
+          "texto": "book",
+          "puntuacion_promedio": 8.9,
+          "total_evaluaciones": 6,
+          "historial_puntuaciones": [9, 9, 8, 9, 9, 9],
+          "fecha_creacion": "2024-01-18T14:00:00",
+          "fecha_ultima_modificacion": "2024-03-16T15:30:00"
+        },
+        "computadora": {
+          "texto": "computer",
+          "puntuacion_promedio": 8.6,
+          "total_evaluaciones": 9,
+          "historial_puntuaciones": [8, 9, 8, 9, 8, 9, 8, 9, 8],
+          "fecha_creacion": "2024-01-19T16:00:00",
+          "fecha_ultima_modificacion": "2024-03-21T13:15:00"
+        },
+        "amor": {
+          "texto": "love",
+          "puntuacion_promedio": 9.9,
+          "total_evaluaciones": 25,
+          "historial_puntuaciones": [10, 10, 10, 10, 10, 10, 10, 10, 9, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10],
+          "fecha_creacion": "2024-01-20T10:00:00",
+          "fecha_ultima_modificacion": "2024-03-23T17:45:00"
+        },
+        "amigo": {
+          "texto": "friend",
+          "puntuacion_promedio": 9.4,
+          "total_evaluaciones": 11,
+          "historial_puntuaciones": [9, 10, 9, 10, 9, 10, 9, 9, 10, 9, 10],
+          "fecha_creacion": "2024-01-21T11:30:00",
+          "fecha_ultima_modificacion": "2024-03-22T10:20:00"
+        }
+      },
+      "francés": {
+        "hola": {
+          "texto": "bonjour",
+          "puntuacion_promedio": 9.0,
+          "total_evaluaciones": 8,
+          "historial_puntuaciones": [9, 9, 8, 9, 10, 9, 9, 9],
+          "fecha_creacion": "2024-01-22T08:00:00",
+          "fecha_ultima_modificacion": "2024-03-19T09:00:00"
+        },
+        "gracias": {
+          "texto": "merci",
+          "puntuacion_promedio": 9.5,
+          "total_evaluaciones": 10,
+          "historial_puntuaciones": [10, 9, 10, 9, 10, 10, 9, 10, 9, 10],
+          "fecha_creacion": "2024-01-22T08:05:00",
+          "fecha_ultima_modificacion": "2024-03-21T10:00:00"
+        },
+        "agua": {
+          "texto": "eau",
+          "puntuacion_promedio": 9.2,
+          "total_evaluaciones": 6,
+          "historial_puntuaciones": [9, 10, 9, 9, 10, 9],
+          "fecha_creacion": "2024-01-23T09:00:00",
+          "fecha_ultima_modificacion": "2024-03-18T11:45:00"
+        },
+        "casa": {
+          "texto": "maison",
+          "puntuacion_promedio": 8.8,
+          "total_evaluaciones": 5,
+          "historial_puntuaciones": [9, 8, 9, 9, 8],
+          "fecha_creacion": "2024-01-23T09:05:00",
+          "fecha_ultima_modificacion": "2024-03-17T12:30:00"
+        }
+      },
+      "portugués": {
+        "hola": {
+          "texto": "olá",
+          "puntuacion_promedio": 9.6,
+          "total_evaluaciones": 12,
+          "historial_puntuaciones": [10, 9, 10, 10, 9, 10, 9, 10, 10, 9, 10, 9],
+          "fecha_creacion": "2024-01-24T09:00:00",
+          "fecha_ultima_modificacion": "2024-03-22T11:00:00"
+        },
+        "gracias": {
+          "texto": "obrigado",
+          "puntuacion_promedio": 9.3,
+          "total_evaluaciones": 9,
+          "historial_puntuaciones": [9, 10, 9, 9, 10, 9, 9, 10, 9],
+          "fecha_creacion": "2024-01-24T09:05:00",
+          "fecha_ultima_modificacion": "2024-03-20T12:00:00"
+        },
+        "agua": {
+          "texto": "água",
+          "puntuacion_promedio": 9.7,
+          "total_evaluaciones": 10,
+          "historial_puntuaciones": [10, 9, 10, 10, 9, 10, 10, 9, 10, 10],
+          "fecha_creacion": "2024-01-25T10:00:00",
+          "fecha_ultima_modificacion": "2024-03-23T13:30:00"
+        },
+        "casa": {
+          "texto": "casa",
+          "puntuacion_promedio": 9.8,
+          "total_evaluaciones": 15,
+          "historial_puntuaciones": [10, 10, 10, 9, 10, 10, 10, 10, 9, 10, 10, 10, 10, 10, 10],
+          "fecha_creacion": "2024-01-25T10:05:00",
+          "fecha_ultima_modificacion": "2024-03-24T14:20:00"
+        }
+      }
+    },
+    "francés": {
+      "inglés": {
+        "bonjour": {
+          "texto": "hello",
+          "puntuacion_promedio": 9.0,
+          "total_evaluaciones": 12,
+          "historial_puntuaciones": [9, 9, 8, 9, 10, 9, 9, 8, 9, 9, 9, 9],
+          "fecha_creacion": "2024-01-15T11:00:00",
+          "fecha_ultima_modificacion": "2024-03-20T15:45:00"
+        },
+        "au revoir": {
+          "texto": "goodbye",
+          "puntuacion_promedio": 8.8,
+          "total_evaluaciones": 10,
+          "historial_puntuaciones": [9, 8, 9, 8, 9, 9, 8, 9, 9, 8],
+          "fecha_creacion": "2024-01-15T11:05:00",
+          "fecha_ultima_modificacion": "2024-03-18T12:30:00"
+        },
+        "merci": {
+          "texto": "thank you",
+          "puntuacion_promedio": 9.7,
+          "total_evaluaciones": 18,
+          "historial_puntuaciones": [10, 9, 10, 10, 10, 9, 10, 10, 9, 10, 10, 10, 10, 9, 10, 10, 10, 9],
+          "fecha_creacion": "2024-01-15T11:10:00",
+          "fecha_ultima_modificacion": "2024-03-22T17:30:00"
+        },
+        "eau": {
+          "texto": "water",
+          "puntuacion_promedio": 9.2,
+          "total_evaluaciones": 7,
+          "historial_puntuaciones": [9, 10, 9, 9, 10, 9, 9],
+          "fecha_creacion": "2024-01-16T10:00:00",
+          "fecha_ultima_modificacion": "2024-03-17T11:45:00"
+        }
+      },
+      "español": {
+        "bonjour": {
+          "texto": "hola",
+          "puntuacion_promedio": 9.0,
+          "total_evaluaciones": 8,
+          "historial_puntuaciones": [9, 9, 8, 9, 10, 9, 9, 9],
+          "fecha_creacion": "2024-01-22T08:00:00",
+          "fecha_ultima_modificacion": "2024-03-19T09:00:00"
+        },
+        "merci": {
+          "texto": "gracias",
+          "puntuacion_promedio": 9.5,
+          "total_evaluaciones": 10,
+          "historial_puntuaciones": [10, 9, 10, 9, 10, 10, 9, 10, 9, 10],
+          "fecha_creacion": "2024-01-22T08:05:00",
+          "fecha_ultima_modificacion": "2024-03-21T10:00:00"
+        },
+        "eau": {
+          "texto": "agua",
+          "puntuacion_promedio": 9.2,
+          "total_evaluaciones": 6,
+          "historial_puntuaciones": [9, 10, 9, 9, 10, 9],
+          "fecha_creacion": "2024-01-23T09:00:00",
+          "fecha_ultima_modificacion": "2024-03-18T11:45:00"
+        },
+        "maison": {
+          "texto": "casa",
+          "puntuacion_promedio": 8.8,
+          "total_evaluaciones": 5,
+          "historial_puntuaciones": [9, 8, 9, 9, 8],
+          "fecha_creacion": "2024-01-23T09:05:00",
+          "fecha_ultima_modificacion": "2024-03-17T12:30:00"
+        }
+      },
+      "portugués": {
+        "bonjour": {
+          "texto": "olá",
+          "puntuacion_promedio": 8.7,
+          "total_evaluaciones": 5,
+          "historial_puntuaciones": [8, 9, 8, 9, 8],
+          "fecha_creacion": "2024-01-26T07:00:00",
+          "fecha_ultima_modificacion": "2024-03-19T08:00:00"
+        },
+        "merci": {
+          "texto": "obrigado",
+          "puntuacion_promedio": 8.9,
+          "total_evaluaciones": 4,
+          "historial_puntuaciones": [9, 8, 9, 9],
+          "fecha_creacion": "2024-01-26T07:05:00",
+          "fecha_ultima_modificacion": "2024-03-18T09:00:00"
+        },
+        "eau": {
+          "texto": "água",
+          "puntuacion_promedio": 9.0,
+          "total_evaluaciones": 3,
+          "historial_puntuaciones": [9, 9, 9],
+          "fecha_creacion": "2024-01-27T08:00:00",
+          "fecha_ultima_modificacion": "2024-03-20T10:45:00"
+        }
+      }
+    },
+    "portugués": {
+      "inglés": {
+        "olá": {
+          "texto": "hello",
+          "puntuacion_promedio": 9.1,
+          "total_evaluaciones": 11,
+          "historial_puntuaciones": [9, 9, 10, 9, 9, 9, 10, 9, 9, 9, 9],
+          "fecha_creacion": "2024-01-15T12:00:00",
+          "fecha_ultima_modificacion": "2024-03-19T16:30:00"
+        },
+        "adeus": {
+          "texto": "goodbye",
+          "puntuacion_promedio": 8.9,
+          "total_evaluaciones": 9,
+          "historial_puntuaciones": [9, 8, 9, 9, 9, 8, 9, 9, 9],
+          "fecha_creacion": "2024-01-15T12:05:00",
+          "fecha_ultima_modificacion": "2024-03-21T14:20:00"
+        },
+        "obrigado": {
+          "texto": "thank you",
+          "puntuacion_promedio": 9.5,
+          "total_evaluaciones": 15,
+          "historial_puntuaciones": [10, 9, 10, 9, 10, 10, 9, 10, 9, 10, 9, 10, 10, 9, 10],
+          "fecha_creacion": "2024-01-15T12:10:00",
+          "fecha_ultima_modificacion": "2024-03-23T15:15:00"
+        },
+        "água": {
+          "texto": "water",
+          "puntuacion_promedio": 9.3,
+          "total_evaluaciones": 8,
+          "historial_puntuaciones": [9, 10, 9, 10, 9, 9, 10, 9],
+          "fecha_creacion": "2024-01-16T11:00:00",
+          "fecha_ultima_modificacion": "2024-03-18T13:30:00"
+        }
+      },
+      "español": {
+        "olá": {
+          "texto": "hola",
+          "puntuacion_promedio": 9.6,
+          "total_evaluaciones": 12,
+          "historial_puntuaciones": [10, 9, 10, 10, 9, 10, 9, 10, 10, 9, 10, 9],
+          "fecha_creacion": "2024-01-24T09:00:00",
+          "fecha_ultima_modificacion": "2024-03-22T11:00:00"
+        },
+        "obrigado": {
+          "texto": "gracias",
+          "puntuacion_promedio": 9.3,
+          "total_evaluaciones": 9,
+          "historial_puntuaciones": [9, 10, 9, 9, 10, 9, 9, 10, 9],
+          "fecha_creacion": "2024-01-24T09:05:00",
+          "fecha_ultima_modificacion": "2024-03-20T12:00:00"
+        },
+        "água": {
+          "texto": "agua",
+          "puntuacion_promedio": 9.7,
+          "total_evaluaciones": 10,
+          "historial_puntuaciones": [10, 9, 10, 10, 9, 10, 10, 9, 10, 10],
+          "fecha_creacion": "2024-01-25T10:00:00",
+          "fecha_ultima_modificacion": "2024-03-23T13:30:00"
+        },
+        "casa": {
+          "texto": "casa",
+          "puntuacion_promedio": 9.8,
+          "total_evaluaciones": 15,
+          "historial_puntuaciones": [10, 10, 10, 9, 10, 10, 10, 10, 9, 10, 10, 10, 10, 10, 10],
+          "fecha_creacion": "2024-01-25T10:05:00",
+          "fecha_ultima_modificacion": "2024-03-24T14:20:00"
+        }
+      },
+      "francés": {
+        "olá": {
+          "texto": "bonjour",
+          "puntuacion_promedio": 8.7,
+          "total_evaluaciones": 5,
+          "historial_puntuaciones": [8, 9, 8, 9, 8],
+          "fecha_creacion": "2024-01-26T07:00:00",
+          "fecha_ultima_modificacion": "2024-03-19T08:00:00"
+        },
+        "obrigado": {
+          "texto": "merci",
+          "puntuacion_promedio": 8.9,
+          "total_evaluaciones": 4,
+          "historial_puntuaciones": [9, 8, 9, 9],
+          "fecha_creacion": "2024-01-26T07:05:00",
+          "fecha_ultima_modificacion": "2024-03-18T09:00:00"
+        },
+        "água": {
+          "texto": "eau",
+          "puntuacion_promedio": 9.0,
+          "total_evaluaciones": 3,
+          "historial_puntuaciones": [9, 9, 9],
+          "fecha_creacion": "2024-01-27T08:00:00",
+          "fecha_ultima_modificacion": "2024-03-20T10:45:00"
+        }
+      }
+    }
+  },
+  "historial": [
+    {
+      "fecha": "2024-01-15T10:00:00",
+      "accion": "agregar",
+      "origen": "inglés",
+      "destino": "español",
+      "texto_origen": "hello",
+      "texto_traduccion": "hola"
+    },
+    {
+      "fecha": "2024-01-15T10:05:00",
+      "accion": "agregar",
+      "origen": "inglés",
+      "destino": "español",
+      "texto_origen": "goodbye",
+      "texto_traduccion": "adiós"
+    },
+    {
+      "fecha": "2024-01-15T10:10:00",
+      "accion": "agregar",
+      "origen": "inglés",
+      "destino": "español",
+      "texto_origen": "thank you",
+      "texto_traduccion": "gracias"
+    },
+    {
+      "fecha": "2024-01-16T09:00:00",
+      "accion": "agregar",
+      "origen": "inglés",
+      "destino": "español",
+      "texto_origen": "water",
+      "texto_traduccion": "agua"
+    },
+    {
+      "fecha": "2024-01-16T09:05:00",
+      "accion": "agregar",
+      "origen": "inglés",
+      "destino": "español",
+      "texto_origen": "house",
+      "texto_traduccion": "casa"
+    },
+    {
+      "fecha": "2024-01-20T10:00:00",
+      "accion": "agregar",
+      "origen": "inglés",
+      "destino": "español",
+      "texto_origen": "love",
+      "texto_traduccion": "amor"
+    },
+    {
+      "fecha": "2024-01-21T11:30:00",
+      "accion": "agregar",
+      "origen": "inglés",
+      "destino": "español",
+      "texto_origen": "friend",
+      "texto_traduccion": "amigo"
+    },
+    {
+      "fecha": "2024-01-22T08:00:00",
+      "accion": "agregar",
+      "origen": "español",
+      "destino": "francés",
+      "texto_origen": "hola",
+      "texto_traduccion": "bonjour"
+    },
+    {
+      "fecha": "2024-01-22T08:05:00",
+      "accion": "agregar",
+      "origen": "español",
+      "destino": "francés",
+      "texto_origen": "gracias",
+      "texto_traduccion": "merci"
+    },
+    {
+      "fecha": "2024-01-24T09:00:00",
+      "accion": "agregar",
+      "origen": "español",
+      "destino": "portugués",
+      "texto_origen": "hola",
+      "texto_traduccion": "olá"
+    },
+    {
+      "fecha": "2024-01-24T09:05:00",
+      "accion": "agregar",
+      "origen": "español",
+      "destino": "portugués",
+      "texto_origen": "gracias",
+      "texto_traduccion": "obrigado"
+    },
+    {
+      "fecha": "2024-01-25T10:00:00",
+      "accion": "agregar",
+      "origen": "español",
+      "destino": "portugués",
+      "texto_origen": "agua",
+      "texto_traduccion": "água"
+    },
+    {
+      "fecha": "2024-01-25T10:05:00",
+      "accion": "agregar",
+      "origen": "español",
+      "destino": "portugués",
+      "texto_origen": "casa",
+      "texto_traduccion": "casa"
+    },
+    {
+      "fecha": "2024-01-26T07:00:00",
+      "accion": "agregar",
+      "origen": "francés",
+      "destino": "portugués",
+      "texto_origen": "bonjour",
+      "texto_traduccion": "olá"
+    },
+    {
+      "fecha": "2024-01-26T07:05:00",
+      "accion": "agregar",
+      "origen": "francés",
+      "destino": "portugués",
+      "texto_origen": "merci",
+      "texto_traduccion": "obrigado"
+    },
+    {
+      "fecha": "2024-01-27T08:00:00",
+      "accion": "agregar",
+      "origen": "francés",
+      "destino": "portugués",
+      "texto_origen": "eau",
+      "texto_traduccion": "água"
+    },
+    {
+      "fecha": "2024-02-10T14:30:00",
+      "accion": "evaluar",
+      "origen": "inglés",
+      "destino": "español",
+      "texto_origen": "hello",
+      "puntuacion": 9,
+      "puntuacion_anterior": 9.1
+    },
+    {
+      "fecha": "2024-02-12T11:20:00",
+      "accion": "evaluar",
+      "origen": "inglés",
+      "destino": "español",
+      "texto_origen": "goodbye",
+      "puntuacion": 8,
+      "puntuacion_anterior": 8.6
+    },
+    {
+      "fecha": "2024-02-15T16:15:00",
+      "accion": "evaluar",
+      "origen": "inglés",
+      "destino": "español",
+      "texto_origen": "thank you",
+      "puntuacion": 10,
+      "puntuacion_anterior": 9.7
+    },
+    {
+      "fecha": "2024-02-20T14:30:00",
+      "accion": "evaluar",
+      "origen": "inglés",
+      "destino": "español",
+      "texto_origen": "love",
+      "puntuacion": 9,
+      "puntuacion_anterior": 9.8
+    },
+    {
+      "fecha": "2024-03-10T10:20:00",
+      "accion": "evaluar",
+      "origen": "español",
+      "destino": "inglés",
+      "texto_origen": "amigo",
+      "puntuacion": 10,
+      "puntuacion_anterior": 9.3
+    },
+    {
+      "fecha": "2024-03-15T15:30:00",
+      "accion": "traducir",
+      "origen": "inglés",
+      "destino": "español",
+      "texto_origen": "hello",
+      "texto_traduccion": "hola",
+      "puntuacion": 9.2
+    },
+    {
+      "fecha": "2024-03-18T11:20:00",
+      "accion": "traducir",
+      "origen": "inglés",
+      "destino": "español",
+      "texto_origen": "goodbye",
+      "texto_traduccion": "adiós",
+      "puntuacion": 8.7
+    },
+    {
+      "fecha": "2024-03-20T16:30:00",
+      "accion": "traducir",
+      "origen": "español",
+      "destino": "francés",
+      "texto_origen": "hola",
+      "texto_traduccion": "bonjour",
+      "puntuacion": 9.0
+    },
+    {
+      "fecha": "2024-03-22T17:45:00",
+      "accion": "traducir",
+      "origen": "español",
+      "destino": "portugués",
+      "texto_origen": "agua",
+      "texto_traduccion": "água",
+      "puntuacion": 9.7
+    }
+  ],
+  "fecha_guardado": "2024-03-25T10:00:00",
+  "version": "1.0"
+}

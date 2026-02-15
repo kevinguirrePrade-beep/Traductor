@@ -1,0 +1,1061 @@
+{
+  "diccionario": {
+    "inglés": {
+      "español": {
+        "hello": {
+          "texto": "hola",
+          "puntuacion_promedio": 9,
+          "total_evaluaciones": 1,
+          "historial_puntuaciones": [
+            9
+          ],
+          "fecha_creacion": "2026-02-13T18:13:03.785514",
+          "fecha_ultima_modificacion": "2026-02-13T18:13:03.785514"
+        },
+        "goodbye": {
+          "texto": "adiós",
+          "puntuacion_promedio": 8,
+          "total_evaluaciones": 1,
+          "historial_puntuaciones": [
+            8
+          ],
+          "fecha_creacion": "2026-02-13T18:13:03.785514",
+          "fecha_ultima_modificacion": "2026-02-13T18:13:03.785514"
+        },
+        "thank you": {
+          "texto": "gracias",
+          "puntuacion_promedio": 10,
+          "total_evaluaciones": 1,
+          "historial_puntuaciones": [
+            10
+          ],
+          "fecha_creacion": "2026-02-13T18:13:03.785514",
+          "fecha_ultima_modificacion": "2026-02-13T18:13:03.785514"
+        },
+        "please": {
+          "texto": "por favor",
+          "puntuacion_promedio": 9,
+          "total_evaluaciones": 1,
+          "historial_puntuaciones": [
+            9
+          ],
+          "fecha_creacion": "2026-02-13T18:13:03.785514",
+          "fecha_ultima_modificacion": "2026-02-13T18:13:03.785514"
+        },
+        "water": {
+          "texto": "agua",
+          "puntuacion_promedio": 8,
+          "total_evaluaciones": 1,
+          "historial_puntuaciones": [
+            8
+          ],
+          "fecha_creacion": "2026-02-13T18:13:03.785514",
+          "fecha_ultima_modificacion": "2026-02-13T18:13:03.785514"
+        },
+        "food": {
+          "texto": "comida",
+          "puntuacion_promedio": 8,
+          "total_evaluaciones": 1,
+          "historial_puntuaciones": [
+            8
+          ],
+          "fecha_creacion": "2026-02-13T18:13:03.785514",
+          "fecha_ultima_modificacion": "2026-02-13T18:13:03.785514"
+        },
+        "house": {
+          "texto": "casa",
+          "puntuacion_promedio": 9,
+          "total_evaluaciones": 1,
+          "historial_puntuaciones": [
+            9
+          ],
+          "fecha_creacion": "2026-02-13T18:13:03.785514",
+          "fecha_ultima_modificacion": "2026-02-13T18:13:03.785514"
+        },
+        "now": {
+          "texto": "ahora",
+          "puntuacion_promedio": 5,
+          "total_evaluaciones": 1,
+          "historial_puntuaciones": [
+            5
+          ],
+          "fecha_creacion": "2026-02-13T20:23:46.560448",
+          "fecha_ultima_modificacion": "2026-02-13T20:23:46.560448"
+        },
+        "later": {
+          "texto": "despues",
+          "puntuacion_promedio": 5,
+          "total_evaluaciones": 1,
+          "historial_puntuaciones": [
+            5
+          ],
+          "fecha_creacion": "2026-02-13T20:14:06.185066",
+          "fecha_ultima_modificacion": "2026-02-13T20:14:06.185066"
+        },
+        "before": {
+          "texto": "antes",
+          "puntuacion_promedio": 5,
+          "total_evaluaciones": 1,
+          "historial_puntuaciones": [
+            5
+          ],
+          "fecha_creacion": "2026-02-13T20:24:58.848557",
+          "fecha_ultima_modificacion": "2026-02-13T20:24:58.848557"
+        },
+        "party": {
+          "texto": "fiesta",
+          "puntuacion_promedio": 5,
+          "total_evaluaciones": 1,
+          "historial_puntuaciones": [
+            5
+          ],
+          "fecha_creacion": "2026-02-13T20:36:57.388553",
+          "fecha_ultima_modificacion": "2026-02-13T20:36:57.388553"
+        }
+      },
+      "francés": {
+        "hello": {
+          "texto": "bonjour",
+          "puntuacion_promedio": 8,
+          "total_evaluaciones": 1,
+          "historial_puntuaciones": [
+            8
+          ],
+          "fecha_creacion": "2026-02-13T18:13:03.785514",
+          "fecha_ultima_modificacion": "2026-02-13T18:13:03.785514"
+        },
+        "goodbye": {
+          "texto": "au revoir",
+          "puntuacion_promedio": 8,
+          "total_evaluaciones": 1,
+          "historial_puntuaciones": [
+            8
+          ],
+          "fecha_creacion": "2026-02-13T18:13:03.785514",
+          "fecha_ultima_modificacion": "2026-02-13T18:13:03.785514"
+        },
+        "water": {
+          "texto": "eau",
+          "puntuacion_promedio": 8,
+          "total_evaluaciones": 1,
+          "historial_puntuaciones": [
+            8
+          ],
+          "fecha_creacion": "2026-02-13T18:13:03.785514",
+          "fecha_ultima_modificacion": "2026-02-13T18:13:03.785514"
+        }
+      },
+      "portugués": {
+        "hello": {
+          "texto": "olá",
+          "puntuacion_promedio": 8,
+          "total_evaluaciones": 1,
+          "historial_puntuaciones": [
+            8
+          ],
+          "fecha_creacion": "2026-02-13T18:13:03.785514",
+          "fecha_ultima_modificacion": "2026-02-13T18:13:03.785514"
+        },
+        "goodbye": {
+          "texto": "adeus",
+          "puntuacion_promedio": 8,
+          "total_evaluaciones": 1,
+          "historial_puntuaciones": [
+            8
+          ],
+          "fecha_creacion": "2026-02-13T18:13:03.785514",
+          "fecha_ultima_modificacion": "2026-02-13T18:13:03.785514"
+        },
+        "water": {
+          "texto": "água",
+          "puntuacion_promedio": 8,
+          "total_evaluaciones": 1,
+          "historial_puntuaciones": [
+            8
+          ],
+          "fecha_creacion": "2026-02-13T18:13:03.785514",
+          "fecha_ultima_modificacion": "2026-02-13T18:13:03.785514"
+        }
+      }
+    },
+    "español": {
+      "inglés": {
+        "hola": {
+          "texto": "hello",
+          "puntuacion_promedio": 9,
+          "total_evaluaciones": 1,
+          "historial_puntuaciones": [
+            9
+          ],
+          "fecha_creacion": "2026-02-13T18:13:03.785514",
+          "fecha_ultima_modificacion": "2026-02-13T18:13:03.785514"
+        },
+        "adiós": {
+          "texto": "goodbye",
+          "puntuacion_promedio": 8,
+          "total_evaluaciones": 1,
+          "historial_puntuaciones": [
+            8
+          ],
+          "fecha_creacion": "2026-02-13T18:13:03.785514",
+          "fecha_ultima_modificacion": "2026-02-13T18:13:03.785514"
+        },
+        "gracias": {
+          "texto": "thank you",
+          "puntuacion_promedio": 10,
+          "total_evaluaciones": 1,
+          "historial_puntuaciones": [
+            10
+          ],
+          "fecha_creacion": "2026-02-13T18:13:03.785514",
+          "fecha_ultima_modificacion": "2026-02-13T18:13:03.785514"
+        },
+        "por favor": {
+          "texto": "please",
+          "puntuacion_promedio": 9,
+          "total_evaluaciones": 1,
+          "historial_puntuaciones": [
+            9
+          ],
+          "fecha_creacion": "2026-02-13T18:13:03.785514",
+          "fecha_ultima_modificacion": "2026-02-13T18:13:03.785514"
+        },
+        "agua": {
+          "texto": "water",
+          "puntuacion_promedio": 8,
+          "total_evaluaciones": 1,
+          "historial_puntuaciones": [
+            8
+          ],
+          "fecha_creacion": "2026-02-13T18:13:03.785514",
+          "fecha_ultima_modificacion": "2026-02-13T18:13:03.785514"
+        },
+        "comida": {
+          "texto": "food",
+          "puntuacion_promedio": 8,
+          "total_evaluaciones": 1,
+          "historial_puntuaciones": [
+            8
+          ],
+          "fecha_creacion": "2026-02-13T18:13:03.785514",
+          "fecha_ultima_modificacion": "2026-02-13T18:13:03.785514"
+        },
+        "casa": {
+          "texto": "house",
+          "puntuacion_promedio": 9,
+          "total_evaluaciones": 1,
+          "historial_puntuaciones": [
+            9
+          ],
+          "fecha_creacion": "2026-02-13T18:13:03.785514",
+          "fecha_ultima_modificacion": "2026-02-13T18:13:03.785514"
+        },
+        "ahora": {
+          "texto": "now",
+          "puntuacion_promedio": 6.0,
+          "total_evaluaciones": 2,
+          "historial_puntuaciones": [
+            5,
+            7
+          ],
+          "fecha_creacion": "2026-02-13T20:23:46.560448",
+          "fecha_ultima_modificacion": "2026-02-13T20:24:13.415196"
+        },
+        "despues": {
+          "texto": "later",
+          "puntuacion_promedio": 5,
+          "total_evaluaciones": 1,
+          "historial_puntuaciones": [
+            5
+          ],
+          "fecha_creacion": "2026-02-13T20:14:06.185066",
+          "fecha_ultima_modificacion": "2026-02-13T20:14:06.185066"
+        },
+        "antes": {
+          "texto": "before",
+          "puntuacion_promedio": 5,
+          "total_evaluaciones": 1,
+          "historial_puntuaciones": [
+            5
+          ],
+          "fecha_creacion": "2026-02-13T20:24:58.848557",
+          "fecha_ultima_modificacion": "2026-02-13T20:24:58.848557"
+        },
+        "fiesta": {
+          "texto": "party",
+          "puntuacion_promedio": 8.333333333333334,
+          "total_evaluaciones": 3,
+          "historial_puntuaciones": [
+            5,
+            10,
+            10
+          ],
+          "fecha_creacion": "2026-02-13T20:36:57.387635",
+          "fecha_ultima_modificacion": "2026-02-13T20:47:42.547041"
+        }
+      },
+      "francés": {
+        "hola": {
+          "texto": "bonjour",
+          "puntuacion_promedio": 8,
+          "total_evaluaciones": 1,
+          "historial_puntuaciones": [
+            8
+          ],
+          "fecha_creacion": "2026-02-13T18:13:03.785514",
+          "fecha_ultima_modificacion": "2026-02-13T18:13:03.785514"
+        },
+        "adiós": {
+          "texto": "au revoir",
+          "puntuacion_promedio": 8,
+          "total_evaluaciones": 1,
+          "historial_puntuaciones": [
+            8
+          ],
+          "fecha_creacion": "2026-02-13T18:13:03.785514",
+          "fecha_ultima_modificacion": "2026-02-13T18:13:03.785514"
+        },
+        "gracias": {
+          "texto": "merci",
+          "puntuacion_promedio": 9,
+          "total_evaluaciones": 1,
+          "historial_puntuaciones": [
+            9
+          ],
+          "fecha_creacion": "2026-02-13T18:13:03.785514",
+          "fecha_ultima_modificacion": "2026-02-13T18:13:03.785514"
+        },
+        "agua": {
+          "texto": "eau",
+          "puntuacion_promedio": 8,
+          "total_evaluaciones": 1,
+          "historial_puntuaciones": [
+            8
+          ],
+          "fecha_creacion": "2026-02-13T18:13:03.785514",
+          "fecha_ultima_modificacion": "2026-02-13T18:13:03.785514"
+        }
+      },
+      "portugués": {
+        "hola": {
+          "texto": "olá",
+          "puntuacion_promedio": 9,
+          "total_evaluaciones": 1,
+          "historial_puntuaciones": [
+            9
+          ],
+          "fecha_creacion": "2026-02-13T18:13:03.785514",
+          "fecha_ultima_modificacion": "2026-02-13T18:13:03.785514"
+        },
+        "adiós": {
+          "texto": "adeus",
+          "puntuacion_promedio": 8,
+          "total_evaluaciones": 1,
+          "historial_puntuaciones": [
+            8
+          ],
+          "fecha_creacion": "2026-02-13T18:13:03.785514",
+          "fecha_ultima_modificacion": "2026-02-13T18:13:03.785514"
+        },
+        "gracias": {
+          "texto": "obrigado",
+          "puntuacion_promedio": 8,
+          "total_evaluaciones": 1,
+          "historial_puntuaciones": [
+            8
+          ],
+          "fecha_creacion": "2026-02-13T18:13:03.785514",
+          "fecha_ultima_modificacion": "2026-02-13T18:13:03.785514"
+        },
+        "agua": {
+          "texto": "água",
+          "puntuacion_promedio": 9,
+          "total_evaluaciones": 1,
+          "historial_puntuaciones": [
+            9
+          ],
+          "fecha_creacion": "2026-02-13T18:13:03.785514",
+          "fecha_ultima_modificacion": "2026-02-13T18:13:03.785514"
+        }
+      }
+    },
+    "francés": {
+      "inglés": {},
+      "español": {
+        "bonjour": {
+          "texto": "hola",
+          "puntuacion_promedio": 8,
+          "total_evaluaciones": 1,
+          "historial_puntuaciones": [
+            8
+          ],
+          "fecha_creacion": "2026-02-13T18:13:03.785514",
+          "fecha_ultima_modificacion": "2026-02-13T18:13:03.785514"
+        },
+        "au revoir": {
+          "texto": "adiós",
+          "puntuacion_promedio": 8,
+          "total_evaluaciones": 1,
+          "historial_puntuaciones": [
+            8
+          ],
+          "fecha_creacion": "2026-02-13T18:13:03.785514",
+          "fecha_ultima_modificacion": "2026-02-13T18:13:03.785514"
+        },
+        "merci": {
+          "texto": "gracias",
+          "puntuacion_promedio": 9,
+          "total_evaluaciones": 1,
+          "historial_puntuaciones": [
+            9
+          ],
+          "fecha_creacion": "2026-02-13T18:13:03.785514",
+          "fecha_ultima_modificacion": "2026-02-13T18:13:03.785514"
+        },
+        "eau": {
+          "texto": "agua",
+          "puntuacion_promedio": 8,
+          "total_evaluaciones": 1,
+          "historial_puntuaciones": [
+            8
+          ],
+          "fecha_creacion": "2026-02-13T18:13:03.785514",
+          "fecha_ultima_modificacion": "2026-02-13T18:13:03.785514"
+        }
+      },
+      "portugués": {}
+    },
+    "portugués": {
+      "inglés": {},
+      "español": {
+        "olá": {
+          "texto": "hola",
+          "puntuacion_promedio": 9,
+          "total_evaluaciones": 1,
+          "historial_puntuaciones": [
+            9
+          ],
+          "fecha_creacion": "2026-02-13T18:13:03.785514",
+          "fecha_ultima_modificacion": "2026-02-13T18:13:03.785514"
+        },
+        "adeus": {
+          "texto": "adiós",
+          "puntuacion_promedio": 8,
+          "total_evaluaciones": 1,
+          "historial_puntuaciones": [
+            8
+          ],
+          "fecha_creacion": "2026-02-13T18:13:03.785514",
+          "fecha_ultima_modificacion": "2026-02-13T18:13:03.785514"
+        },
+        "obrigado": {
+          "texto": "gracias",
+          "puntuacion_promedio": 8,
+          "total_evaluaciones": 1,
+          "historial_puntuaciones": [
+            8
+          ],
+          "fecha_creacion": "2026-02-13T18:13:03.785514",
+          "fecha_ultima_modificacion": "2026-02-13T18:13:03.785514"
+        },
+        "água": {
+          "texto": "agua",
+          "puntuacion_promedio": 9,
+          "total_evaluaciones": 1,
+          "historial_puntuaciones": [
+            9
+          ],
+          "fecha_creacion": "2026-02-13T18:13:03.785514",
+          "fecha_ultima_modificacion": "2026-02-13T18:13:03.785514"
+        }
+      },
+      "francés": {}
+    }
+  },
+  "historial": [
+    {
+      "fecha": "2026-02-13T18:13:03.785514",
+      "accion": "agregar",
+      "origen": "español",
+      "destino": "inglés",
+      "texto_origen": "hola",
+      "texto_traduccion": "hello"
+    },
+    {
+      "fecha": "2026-02-13T18:13:03.785514",
+      "accion": "agregar",
+      "origen": "español",
+      "destino": "inglés",
+      "texto_origen": "adiós",
+      "texto_traduccion": "goodbye"
+    },
+    {
+      "fecha": "2026-02-13T18:13:03.785514",
+      "accion": "agregar",
+      "origen": "español",
+      "destino": "inglés",
+      "texto_origen": "gracias",
+      "texto_traduccion": "thank you"
+    },
+    {
+      "fecha": "2026-02-13T18:13:03.785514",
+      "accion": "agregar",
+      "origen": "español",
+      "destino": "inglés",
+      "texto_origen": "por favor",
+      "texto_traduccion": "please"
+    },
+    {
+      "fecha": "2026-02-13T18:13:03.785514",
+      "accion": "agregar",
+      "origen": "español",
+      "destino": "inglés",
+      "texto_origen": "agua",
+      "texto_traduccion": "water"
+    },
+    {
+      "fecha": "2026-02-13T18:13:03.785514",
+      "accion": "agregar",
+      "origen": "español",
+      "destino": "inglés",
+      "texto_origen": "comida",
+      "texto_traduccion": "food"
+    },
+    {
+      "fecha": "2026-02-13T18:13:03.785514",
+      "accion": "agregar",
+      "origen": "español",
+      "destino": "inglés",
+      "texto_origen": "casa",
+      "texto_traduccion": "house"
+    },
+    {
+      "fecha": "2026-02-13T18:13:03.785514",
+      "accion": "agregar",
+      "origen": "inglés",
+      "destino": "español",
+      "texto_origen": "hello",
+      "texto_traduccion": "hola"
+    },
+    {
+      "fecha": "2026-02-13T18:13:03.785514",
+      "accion": "agregar",
+      "origen": "inglés",
+      "destino": "español",
+      "texto_origen": "goodbye",
+      "texto_traduccion": "adiós"
+    },
+    {
+      "fecha": "2026-02-13T18:13:03.785514",
+      "accion": "agregar",
+      "origen": "inglés",
+      "destino": "español",
+      "texto_origen": "thank you",
+      "texto_traduccion": "gracias"
+    },
+    {
+      "fecha": "2026-02-13T18:13:03.785514",
+      "accion": "agregar",
+      "origen": "inglés",
+      "destino": "español",
+      "texto_origen": "please",
+      "texto_traduccion": "por favor"
+    },
+    {
+      "fecha": "2026-02-13T18:13:03.785514",
+      "accion": "agregar",
+      "origen": "inglés",
+      "destino": "español",
+      "texto_origen": "water",
+      "texto_traduccion": "agua"
+    },
+    {
+      "fecha": "2026-02-13T18:13:03.785514",
+      "accion": "agregar",
+      "origen": "inglés",
+      "destino": "español",
+      "texto_origen": "food",
+      "texto_traduccion": "comida"
+    },
+    {
+      "fecha": "2026-02-13T18:13:03.785514",
+      "accion": "agregar",
+      "origen": "inglés",
+      "destino": "español",
+      "texto_origen": "house",
+      "texto_traduccion": "casa"
+    },
+    {
+      "fecha": "2026-02-13T18:13:03.785514",
+      "accion": "agregar",
+      "origen": "español",
+      "destino": "francés",
+      "texto_origen": "hola",
+      "texto_traduccion": "bonjour"
+    },
+    {
+      "fecha": "2026-02-13T18:13:03.785514",
+      "accion": "agregar",
+      "origen": "español",
+      "destino": "francés",
+      "texto_origen": "adiós",
+      "texto_traduccion": "au revoir"
+    },
+    {
+      "fecha": "2026-02-13T18:13:03.785514",
+      "accion": "agregar",
+      "origen": "español",
+      "destino": "francés",
+      "texto_origen": "gracias",
+      "texto_traduccion": "merci"
+    },
+    {
+      "fecha": "2026-02-13T18:13:03.785514",
+      "accion": "agregar",
+      "origen": "español",
+      "destino": "francés",
+      "texto_origen": "agua",
+      "texto_traduccion": "eau"
+    },
+    {
+      "fecha": "2026-02-13T18:13:03.785514",
+      "accion": "agregar",
+      "origen": "francés",
+      "destino": "español",
+      "texto_origen": "bonjour",
+      "texto_traduccion": "hola"
+    },
+    {
+      "fecha": "2026-02-13T18:13:03.785514",
+      "accion": "agregar",
+      "origen": "francés",
+      "destino": "español",
+      "texto_origen": "au revoir",
+      "texto_traduccion": "adiós"
+    },
+    {
+      "fecha": "2026-02-13T18:13:03.785514",
+      "accion": "agregar",
+      "origen": "francés",
+      "destino": "español",
+      "texto_origen": "merci",
+      "texto_traduccion": "gracias"
+    },
+    {
+      "fecha": "2026-02-13T18:13:03.785514",
+      "accion": "agregar",
+      "origen": "francés",
+      "destino": "español",
+      "texto_origen": "eau",
+      "texto_traduccion": "agua"
+    },
+    {
+      "fecha": "2026-02-13T18:13:03.785514",
+      "accion": "agregar",
+      "origen": "español",
+      "destino": "portugués",
+      "texto_origen": "hola",
+      "texto_traduccion": "olá"
+    },
+    {
+      "fecha": "2026-02-13T18:13:03.785514",
+      "accion": "agregar",
+      "origen": "español",
+      "destino": "portugués",
+      "texto_origen": "adiós",
+      "texto_traduccion": "adeus"
+    },
+    {
+      "fecha": "2026-02-13T18:13:03.785514",
+      "accion": "agregar",
+      "origen": "español",
+      "destino": "portugués",
+      "texto_origen": "gracias",
+      "texto_traduccion": "obrigado"
+    },
+    {
+      "fecha": "2026-02-13T18:13:03.785514",
+      "accion": "agregar",
+      "origen": "español",
+      "destino": "portugués",
+      "texto_origen": "agua",
+      "texto_traduccion": "água"
+    },
+    {
+      "fecha": "2026-02-13T18:13:03.785514",
+      "accion": "agregar",
+      "origen": "portugués",
+      "destino": "español",
+      "texto_origen": "olá",
+      "texto_traduccion": "hola"
+    },
+    {
+      "fecha": "2026-02-13T18:13:03.785514",
+      "accion": "agregar",
+      "origen": "portugués",
+      "destino": "español",
+      "texto_origen": "adeus",
+      "texto_traduccion": "adiós"
+    },
+    {
+      "fecha": "2026-02-13T18:13:03.785514",
+      "accion": "agregar",
+      "origen": "portugués",
+      "destino": "español",
+      "texto_origen": "obrigado",
+      "texto_traduccion": "gracias"
+    },
+    {
+      "fecha": "2026-02-13T18:13:03.785514",
+      "accion": "agregar",
+      "origen": "portugués",
+      "destino": "español",
+      "texto_origen": "água",
+      "texto_traduccion": "agua"
+    },
+    {
+      "fecha": "2026-02-13T18:13:03.785514",
+      "accion": "agregar",
+      "origen": "inglés",
+      "destino": "francés",
+      "texto_origen": "hello",
+      "texto_traduccion": "bonjour"
+    },
+    {
+      "fecha": "2026-02-13T18:13:03.785514",
+      "accion": "agregar",
+      "origen": "inglés",
+      "destino": "francés",
+      "texto_origen": "goodbye",
+      "texto_traduccion": "au revoir"
+    },
+    {
+      "fecha": "2026-02-13T18:13:03.785514",
+      "accion": "agregar",
+      "origen": "inglés",
+      "destino": "francés",
+      "texto_origen": "water",
+      "texto_traduccion": "eau"
+    },
+    {
+      "fecha": "2026-02-13T18:13:03.785514",
+      "accion": "agregar",
+      "origen": "inglés",
+      "destino": "portugués",
+      "texto_origen": "hello",
+      "texto_traduccion": "olá"
+    },
+    {
+      "fecha": "2026-02-13T18:13:03.785514",
+      "accion": "agregar",
+      "origen": "inglés",
+      "destino": "portugués",
+      "texto_origen": "goodbye",
+      "texto_traduccion": "adeus"
+    },
+    {
+      "fecha": "2026-02-13T18:13:03.785514",
+      "accion": "agregar",
+      "origen": "inglés",
+      "destino": "portugués",
+      "texto_origen": "water",
+      "texto_traduccion": "água"
+    },
+    {
+      "fecha": "2026-02-13T20:02:24.222777",
+      "accion": "agregar",
+      "origen": "español",
+      "destino": "inglés",
+      "texto_origen": "ahora",
+      "texto_traduccion": "now"
+    },
+    {
+      "fecha": "2026-02-13T20:02:24.222777",
+      "accion": "agregar",
+      "origen": "inglés",
+      "destino": "español",
+      "texto_origen": "now",
+      "texto_traduccion": "ahora"
+    },
+    {
+      "fecha": "2026-02-13T20:02:26.123476",
+      "accion": "traducir",
+      "origen": "español",
+      "destino": "inglés",
+      "texto_origen": "ahora",
+      "texto_traduccion": "now",
+      "puntuacion": 5
+    },
+    {
+      "fecha": "2026-02-13T20:02:50.933436",
+      "accion": "traducir",
+      "origen": "español",
+      "destino": "inglés",
+      "texto_origen": "ahora",
+      "texto_traduccion": "now",
+      "puntuacion": 5
+    },
+    {
+      "fecha": "2026-02-13T20:03:05.757653",
+      "accion": "evaluar",
+      "origen": "español",
+      "destino": "inglés",
+      "texto_origen": "ahora",
+      "puntuacion": 6,
+      "puntuacion_anterior": 5
+    },
+    {
+      "fecha": "2026-02-13T20:03:07.081148",
+      "accion": "traducir",
+      "origen": "español",
+      "destino": "inglés",
+      "texto_origen": "ahora",
+      "texto_traduccion": "now",
+      "puntuacion": 5.5
+    },
+    {
+      "fecha": "2026-02-13T20:03:18.780648",
+      "accion": "traducir",
+      "origen": "español",
+      "destino": "inglés",
+      "texto_origen": "ahora",
+      "texto_traduccion": "now",
+      "puntuacion": 5.5
+    },
+    {
+      "fecha": "2026-02-13T20:03:22.461434",
+      "accion": "traducir",
+      "origen": "español",
+      "destino": "inglés",
+      "texto_origen": "ahora",
+      "texto_traduccion": "now",
+      "puntuacion": 5.5
+    },
+    {
+      "fecha": "2026-02-13T20:03:26.435610",
+      "accion": "evaluar",
+      "origen": "español",
+      "destino": "inglés",
+      "texto_origen": "ahora",
+      "puntuacion": 8,
+      "puntuacion_anterior": 5.5
+    },
+    {
+      "fecha": "2026-02-13T20:03:27.538701",
+      "accion": "traducir",
+      "origen": "español",
+      "destino": "inglés",
+      "texto_origen": "ahora",
+      "texto_traduccion": "now",
+      "puntuacion": 6.333333333333333
+    },
+    {
+      "fecha": "2026-02-13T20:13:28.596241",
+      "accion": "agregar",
+      "origen": "español",
+      "destino": "inglés",
+      "texto_origen": "ahora",
+      "texto_traduccion": "now"
+    },
+    {
+      "fecha": "2026-02-13T20:13:28.596241",
+      "accion": "agregar",
+      "origen": "inglés",
+      "destino": "español",
+      "texto_origen": "now",
+      "texto_traduccion": "ahora"
+    },
+    {
+      "fecha": "2026-02-13T20:13:35.028293",
+      "accion": "traducir",
+      "origen": "español",
+      "destino": "inglés",
+      "texto_origen": "ahora",
+      "texto_traduccion": "now",
+      "puntuacion": 5
+    },
+    {
+      "fecha": "2026-02-13T20:13:39.824588",
+      "accion": "evaluar",
+      "origen": "español",
+      "destino": "inglés",
+      "texto_origen": "ahora",
+      "puntuacion": 8,
+      "puntuacion_anterior": 5
+    },
+    {
+      "fecha": "2026-02-13T20:13:40.902686",
+      "accion": "traducir",
+      "origen": "español",
+      "destino": "inglés",
+      "texto_origen": "ahora",
+      "texto_traduccion": "now",
+      "puntuacion": 6.5
+    },
+    {
+      "fecha": "2026-02-13T20:14:06.185066",
+      "accion": "agregar",
+      "origen": "español",
+      "destino": "inglés",
+      "texto_origen": "despues",
+      "texto_traduccion": "later"
+    },
+    {
+      "fecha": "2026-02-13T20:14:06.185066",
+      "accion": "agregar",
+      "origen": "inglés",
+      "destino": "español",
+      "texto_origen": "later",
+      "texto_traduccion": "despues"
+    },
+    {
+      "fecha": "2026-02-13T20:14:07.310137",
+      "accion": "traducir",
+      "origen": "español",
+      "destino": "inglés",
+      "texto_origen": "despues",
+      "texto_traduccion": "later",
+      "puntuacion": 5
+    },
+    {
+      "fecha": "2026-02-13T20:23:46.560448",
+      "accion": "agregar",
+      "origen": "español",
+      "destino": "inglés",
+      "texto_origen": "ahora",
+      "texto_traduccion": "now"
+    },
+    {
+      "fecha": "2026-02-13T20:23:46.560448",
+      "accion": "agregar",
+      "origen": "inglés",
+      "destino": "español",
+      "texto_origen": "now",
+      "texto_traduccion": "ahora"
+    },
+    {
+      "fecha": "2026-02-13T20:23:53.358372",
+      "accion": "traducir",
+      "origen": "español",
+      "destino": "inglés",
+      "texto_origen": "ahora",
+      "texto_traduccion": "now",
+      "puntuacion": 5
+    },
+    {
+      "fecha": "2026-02-13T20:24:13.415196",
+      "accion": "evaluar",
+      "origen": "español",
+      "destino": "inglés",
+      "texto_origen": "ahora",
+      "puntuacion": 7,
+      "puntuacion_anterior": 5
+    },
+    {
+      "fecha": "2026-02-13T20:24:23.245748",
+      "accion": "traducir",
+      "origen": "español",
+      "destino": "inglés",
+      "texto_origen": "despues",
+      "texto_traduccion": "later",
+      "puntuacion": 5
+    },
+    {
+      "fecha": "2026-02-13T20:24:58.848557",
+      "accion": "agregar",
+      "origen": "español",
+      "destino": "inglés",
+      "texto_origen": "antes",
+      "texto_traduccion": "before"
+    },
+    {
+      "fecha": "2026-02-13T20:24:58.848557",
+      "accion": "agregar",
+      "origen": "inglés",
+      "destino": "español",
+      "texto_origen": "before",
+      "texto_traduccion": "antes"
+    },
+    {
+      "fecha": "2026-02-13T20:25:01.052134",
+      "accion": "traducir",
+      "origen": "español",
+      "destino": "inglés",
+      "texto_origen": "antes",
+      "texto_traduccion": "before",
+      "puntuacion": 5
+    },
+    {
+      "fecha": "2026-02-13T20:36:57.387635",
+      "accion": "agregar",
+      "origen": "español",
+      "destino": "inglés",
+      "texto_origen": "fiesta",
+      "texto_traduccion": "party"
+    },
+    {
+      "fecha": "2026-02-13T20:36:57.388553",
+      "accion": "agregar",
+      "origen": "inglés",
+      "destino": "español",
+      "texto_origen": "party",
+      "texto_traduccion": "fiesta"
+    },
+    {
+      "fecha": "2026-02-13T20:37:28.871432",
+      "accion": "traducir",
+      "origen": "español",
+      "destino": "inglés",
+      "texto_origen": "fiesta",
+      "texto_traduccion": "party",
+      "puntuacion": 5
+    },
+    {
+      "fecha": "2026-02-13T20:37:33.225703",
+      "accion": "evaluar",
+      "origen": "español",
+      "destino": "inglés",
+      "texto_origen": "fiesta",
+      "puntuacion": 10,
+      "puntuacion_anterior": 5
+    },
+    {
+      "fecha": "2026-02-13T20:37:34.700602",
+      "accion": "traducir",
+      "origen": "español",
+      "destino": "inglés",
+      "texto_origen": "fiesta",
+      "texto_traduccion": "party",
+      "puntuacion": 7.5
+    },
+    {
+      "fecha": "2026-02-13T20:47:36.827233",
+      "accion": "traducir",
+      "origen": "español",
+      "destino": "inglés",
+      "texto_origen": "fiesta",
+      "texto_traduccion": "party",
+      "puntuacion": 7.5
+    },
+    {
+      "fecha": "2026-02-13T20:47:42.547041",
+      "accion": "evaluar",
+      "origen": "español",
+      "destino": "inglés",
+      "texto_origen": "fiesta",
+      "puntuacion": 10,
+      "puntuacion_anterior": 7.5
+    },
+    {
+      "fecha": "2026-02-13T20:47:43.911182",
+      "accion": "traducir",
+      "origen": "español",
+      "destino": "inglés",
+      "texto_origen": "fiesta",
+      "texto_traduccion": "party",
+      "puntuacion": 8.333333333333334
+    }
+  ],
+  "fecha_guardado": "2026-02-14T19:39:42.332103",
+  "version": "1.0"
+}
